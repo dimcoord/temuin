@@ -1,0 +1,97 @@
+{
+  "sections": [
+    {
+      "title": "Lagi Ramai",
+      "items": [
+        {
+          "title": "Es Semangka India",
+          "distance": "30 meter",
+          "address": "Jl. Cibiru Hilir",
+          "image": "/assets/group1.svg",
+          "badges": [
+            { "text": "Top Service!", "icon": "/assets/star-solid.svg" },
+            { "text": "Kreatif Banget!", "icon": "/assets/vector.svg" }
+          ]
+        },
+        {
+          "title": "Barbershop Mas Ridwan",
+          "distance": "40 meter",
+          "address": "Jl. Cibiru Hilir",
+          "image": "/assets/ellipse4.svg",
+          "badges": [
+            { "text": "Rapi & Teliti", "icon": "/assets/broom.svg" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Makan & Minum Enak",
+      "items": [
+        {
+          "title": "Es Semangka India",
+          "distance": "30 meter",
+          "address": "Jl. Cibiru Hilir",
+          "image": "/assets/group1.svg",
+          "badges": [
+            { "text": "Top Service!", "icon": "/assets/star-solid.svg" }
+          ]
+        },
+        {
+          "title": "Barbershop Mas Ridwan",
+          "distance": "40 meter",
+          "address": "Jl. Cibiru Hilir",
+          "image": "/assets/ellipse4.svg",
+          "badges": [
+            { "text": "Rapi & Teliti", "icon": "/assets/broom.svg" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Waktunya Manjain Diri",
+      "items": [
+        {
+          "title": "Es Semangka India",
+          "distance": "30 meter",
+          "address": "Jl. Cibiru Hilir",
+          "image": "/assets/group1.svg",
+          "badges": [
+            { "text": "Top Service!", "icon": "/assets/star-solid.svg" }
+          ]
+        },
+        {
+          "title": "Barbershop Mas Ridwan",
+          "distance": "40 meter",
+          "address": "Jl. Cibiru Hilir",
+          "image": "/assets/ellipse4.svg",
+          "badges": [
+            { "text": "Rapi & Teliti", "icon": "/assets/broom.svg" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Baru Tumbuh",
+      "items": [
+        {
+          "title": "Es Semangka India",
+          "distance": "30 meter",
+          "address": "Jl. Cibiru Hilir",
+          "image": "/assets/group1.svg",
+          "badges": [
+            { "text": "Top Service!", "icon": "/assets/star-solid.svg" }
+          ]
+        },
+        {
+          "title": "Barbershop Mas Ridwan",
+          "distance": "40 meter",
+          "address": "Jl. Cibiru Hilir",
+          "image": "/assets/ellipse4.svg",
+          "badges": [
+            { "text": "Rapi & Teliti", "icon": "/assets/broom.svg" }
+          ]
+        }
+      ]
+    }
+  ]
+}
