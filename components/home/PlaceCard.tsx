@@ -1,27 +1,30 @@
 import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 
 type Badge = { text: string; icon?: string };
 
 export default function PlaceCard({
+  id,
   title,
   distance,
   address,
   badges = [],
   image,
 }: {
+  id?: string;
   title: string;
   distance: string;
   address: string;
   badges?: Badge[];
   image?: string;
 }) {
-  return (
+  const content = (
     <div className="flex gap-4 items-start py-3">
       <div className="h-16 w-16 rounded-md bg-zinc-200 flex-shrink-0 overflow-hidden">
         {image ? (
           <Image
-            src={image?.replace('.png', '.svg')}
+            src={image?.replace(".png", ".svg")}
             alt={title}
             width={64}
             height={64}
@@ -47,7 +50,7 @@ export default function PlaceCard({
             >
               {b.icon ? (
                 <Image
-                  src={b.icon?.replace('.png', '.svg')}
+                  src={b.icon?.replace(".png", ".svg")}
                   alt={b.text}
                   width={12}
                   height={12}
@@ -63,4 +66,14 @@ export default function PlaceCard({
       </div>
     </div>
   );
+
+  if (id) {
+    return (
+      <Link href={`/products/${id}`} className="block">
+        {content}
+      </Link>
+    );
+  }
+
+  return content;
 }

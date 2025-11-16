@@ -4,6 +4,7 @@
       "title": "Lagi Ramai",
       "items": [
         {
+          "id": "es-semangka-india-1",
           "title": "Es Semangka India",
           "distance": "30 meter",
           "address": "Jl. Cibiru Hilir",
@@ -14,6 +15,7 @@
           ]
         },
         {
+          "id": "barbershop-mas-ridwan-1",
           "title": "Barbershop Mas Ridwan",
           "distance": "40 meter",
           "address": "Jl. Cibiru Hilir",
@@ -28,6 +30,7 @@
       "title": "Makan & Minum Enak",
       "items": [
         {
+          "id": "es-semangka-india-2",
           "title": "Es Semangka India",
           "distance": "30 meter",
           "address": "Jl. Cibiru Hilir",
@@ -37,6 +40,7 @@
           ]
         },
         {
+          "id": "barbershop-mas-ridwan-2",
           "title": "Barbershop Mas Ridwan",
           "distance": "40 meter",
           "address": "Jl. Cibiru Hilir",
@@ -51,6 +55,7 @@
       "title": "Waktunya Manjain Diri",
       "items": [
         {
+          "id": "es-semangka-india-3",
           "title": "Es Semangka India",
           "distance": "30 meter",
           "address": "Jl. Cibiru Hilir",
@@ -60,6 +65,7 @@
           ]
         },
         {
+          "id": "barbershop-mas-ridwan-3",
           "title": "Barbershop Mas Ridwan",
           "distance": "40 meter",
           "address": "Jl. Cibiru Hilir",
@@ -74,6 +80,7 @@
       "title": "Baru Tumbuh",
       "items": [
         {
+          "id": "es-semangka-india-4",
           "title": "Es Semangka India",
           "distance": "30 meter",
           "address": "Jl. Cibiru Hilir",
@@ -83,6 +90,7 @@
           ]
         },
         {
+          "id": "barbershop-mas-ridwan-4",
           "title": "Barbershop Mas Ridwan",
           "distance": "40 meter",
           "address": "Jl. Cibiru Hilir",

@@ -2,6 +2,7 @@ import React from "react";
 import PlaceCard from "./PlaceCard";
 
 type PlaceItem = {
+  id?: string;
   title: string;
   distance: string;
   address: string;
@@ -23,6 +24,7 @@ export default function PlaceList({
         {items.map((it, idx) => (
           <div key={idx} className="border-b last:border-b-0 border-zinc-100 py-2">
             <PlaceCard
+              id={it.id}
               title={it.title}
               distance={it.distance}
               address={it.address}
